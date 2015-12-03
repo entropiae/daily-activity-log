@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
-  <event date="2015-06-23">
-    <action type="trying">
-      My new daily activity log
-    </action>
-    <references>
-      <reference src="https://github.com/joebew42/daily-activity-log" type="source" />
-    </references>
-  </event>
+    <event date="2015-12-03">
+        <action type="watching">The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU</action>
+        <references>
+            <reference src="https://www.youtube.com/watch?v=5MgBikgcWnY" type="source"/>
+        </references>
+    </event>
+
+    <event date="2015-12-03">
+        <action type="trying">Activity log started! :D</action>
+        <references>
+            <reference src="https://github.com/joebew42/daily-activity-log" type="source"/>
+        </references>
+    </event>
 </events>
