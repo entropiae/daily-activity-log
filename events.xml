@@ -2,6 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
     <event date="2015-12-03">
+        <action type="watching">dotGo 2015 - Rob Pike - Simplicity is Complicated</action>
+        <references>
+            <reference src="https://www.youtube.com/watch?v=rFejpH_tAHM" type="source"/>
+        </references>
+    </event>
+    <event date="2015-12-03">
         <action type="reading">Secondary indexing with Redis</action>
         <references>
             <reference src="http://redis.io/topics/indexes" type="source"/>
