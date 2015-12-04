@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
+
 <events>
+    <event date="2015-12-04">
+        <action type="reading">20 cool Clojure functions</action>
+        <references>
+            <reference src="http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/" type="source"/>
+        </references>
+    </event>
+
     <event date="2015-12-03">
         <action type="watching">dotGo 2015 - Rob Pike - Simplicity is Complicated</action>
         <references>
