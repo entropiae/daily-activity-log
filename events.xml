@@ -2,6 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 
 <events>
+    <event date="2015-12-09">
+        <action type="reading">Python: Generators, Coroutines, Native Coroutines and Async/Await</action>
+        <references>
+            <reference src="http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html" type="source"/>
+        </references>
+    </event>
+
     <event date="2015-12-04">
         <action type="reading">20 cool Clojure functions</action>
         <references>
