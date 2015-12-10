@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
-
 <events>
+    <event date="2015-12-10">
+        <action type="watching">Alvaro Videla - What we talk about when we talk about Distributed Systems</action>
+        <references>
+            <reference src="https://vimeo.com/133349307" type="source"/>
+        </references>
+    </event>
+
     <event date="2015-12-09">
         <action type="reading">Python: Generators, Coroutines, Native Coroutines and Async/Await</action>
         <references>
