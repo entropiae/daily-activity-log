@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
+    <event date="2016-01-03">
+        <action type="reading">Abstraction, or, The Gift of Our Weak Brains</action>
+        <references>
+            <reference src="http://engineering.pivotal.io/post/abstraction-or-the-gift-of-our-weak-brains/" type="source"/>
+        </references>
+    </event>
+
     <event date="2015-12-15">
         <action type="watching">Andrew Montalenti: Beating Python's GIL to Max Out Your CPUs</action>
         <references>
