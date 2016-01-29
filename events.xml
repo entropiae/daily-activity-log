@@ -2,6 +2,13 @@
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
 <events>
     <event date="2016-01-29">
+        <action type="reading">Fail at Scale - Reliability in the face of rapid change</action>
+        <references>
+            <reference src="http://queue.acm.org/detail.cfm?id=2839461" type="source"/>
+        </references>
+    </event>
+
+    <event date="2016-01-29">
         <action type="watching">Systems at Facebook Scale</action>
         <references>
             <reference src="https://www.youtube.com/watch?v=dlixGkelP9U" type="source"/>
