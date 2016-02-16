@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="events.xsl"?>
+
 <events>
+    <event date="2016-02-16">
+        <action type="reading">Elixir Streams reload</action>
+        <references>
+            <reference src="http://justincalleja.com/2016/01/26/elixir-streams-reload/" type="source"/>
+        </references>
+    </event>
     <event date="2016-01-29">
         <action type="reading">Fail at Scale - Reliability in the face of rapid change</action>
         <references>
